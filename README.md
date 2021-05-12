@@ -3,6 +3,8 @@ Classwork done for CS1
 
 Arrays2: Print movie titles, the alphabet, and allow the user to enter their GPA. Makes use of java arrays.
 
+Assistant: Assistant that computes the area of a shape, plays rock-paper-scissors, calculates overtime pay, calculates amount of change, and calculates your weight in other planets. User is given the choice in what they want to calculate and different methods are called to complete the desired choice.
+
 AverageHeight: Takes two user inputs for their heights and compares them.
 
 ElChucogram: Allow a user to edit an image in ways such as liquifying it, swirling it left and right, expanding a section, contracting a section. Show and update the effects in real time.
