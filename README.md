@@ -13,6 +13,8 @@ Electronics_Meraz: Virtual UTEP store that requests a valid username and passwor
 
 Example: Nested if statements based on user input from scanner.
 
+Files: Play madlib based on a madlib.txt file. Allow user to input appropriate (noun, verb, adjective...) values for each of the empty spaces. 
+
 Lab1Introduction: Introductory lab focusing on learning how to write print statements.
 
 Loops: Using for-loops, while-loops, and switch statements, allow the user to print repetitive lyrics.
