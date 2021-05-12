@@ -35,6 +35,8 @@ WhatToWatch: Gives the user the option to choose a movie to watch.
 
 backwards: Prints the number of lines in a file backwards down to 1.
 
+box: Prints a # box around a user inputted word.
+
 challenge: Using nexted for loops to print numbers.
 
 challenge4: Using a for-loop to check if a word is a palindrome.
