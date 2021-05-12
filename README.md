@@ -33,6 +33,8 @@ PracticeLab5: Using a switch statement and user input.
 
 WhatToWatch: Gives the user the option to choose a movie to watch.
 
+backwards: Prints the number of lines in a file backwards down to 1.
+
 challenge: Using nexted for loops to print numbers.
 
 challenge4: Using a for-loop to check if a word is a palindrome.
