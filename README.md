@@ -17,6 +17,8 @@ Files: Play madlib based on a madlib.txt file. Allow user to input appropriate (
 
 FilesPractice: Verify that the user is inputting the correct type.
 
+Homework2: Quiz that keeps track of correct answers.
+
 Lab1Introduction: Introductory lab focusing on learning how to write print statements.
 
 Loops: Using for-loops, while-loops, and switch statements, allow the user to print repetitive lyrics.
