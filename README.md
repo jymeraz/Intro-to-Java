@@ -1,5 +1,38 @@
-# cs1
-classwork done for cs1
+# CS1
+Classwork done for CS1
 
-WhatToWatch: Gives the user the option to choose a movie to watch
-TestAppStore: 
+Arrays2: Print movie titles, the alphabet, and allow the user to enter their GPA. Makes use of java arrays.
+
+AverageHeight: Takes two user inputs for their heights and compares them.
+
+ElChucogram: Allow a user to edit an image in ways such as liquifying it, swirling it left and right, expanding a section, contracting a section. Show and update the effects in real time.
+
+Electronics_Meraz: Virtual UTEP store that requests a valid username and password. The user's balance is kept track of and they are not allowed to purchase beyond it.
+
+Lab1Introduction: Introductory lab focusing on learning how to write print statements.
+
+Loops: Using for-loops, while-loops, and switch statements, allow the user to print repetitive lyrics.
+
+Love: Nested for-loops give the user multiple options to input their choices of attending a corn maze.
+
+Music: Incorportates different variables into print statements.
+
+MyFileReader: Reads and prints the contents of a file.
+
+MyFirstLab: Print statements in java.
+
+OrangeBox: Keeps a library of movies to rent out. The quantity of the movie available is reduced if it was checked out and movies with no availability cannot be checked out.
+
+PracticeLab3: Practicing using multiple print statements.
+
+PracticeLab4: Initializing a scanner and taking user input.
+
+PracticeLab5: Using a switch statement and user input.
+
+WhatToWatch: Gives the user the option to choose a movie to watch.
+
+challenge: Using nexted for loops to print numbers.
+
+challenge4: Using a for-loop to check if a word is a palindrome.
+
+lab: Initialize a scanner, and check the value of the user input.
