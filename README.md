@@ -25,6 +25,8 @@ Loops: Using for-loops, while-loops, and switch statements, allow the user to pr
 
 Love: Nested for-loops give the user multiple options to input their choices of attending a corn maze.
 
+Maze: Recursively find the solution to a maze given in a .txt file.
+
 Music: Incorportates different variables into print statements.
 
 MyFileReader: Reads and prints the contents of a file.
