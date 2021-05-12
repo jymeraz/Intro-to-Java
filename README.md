@@ -43,9 +43,11 @@ PracticeLab5: Using a switch statement and user input.
 
 Quiz: Quiz given to the user keeping track of correct answers.
 
-WhatToWatch: Gives the user the option to choose a movie to watch.
-
 RollerCoaster: Determine if it is safe for a user to get on a rollercoaster.
+
+Student: Student class with appropriate fields and methods.
+
+WhatToWatch: Gives the user the option to choose a movie to watch.
 
 backwards: Prints the number of lines in a file backwards down to 1.
 
