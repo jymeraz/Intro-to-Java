@@ -11,6 +11,8 @@ ElChucogram: Allow a user to edit an image in ways such as liquifying it, swirli
 
 Electronics_Meraz: Virtual UTEP store that requests a valid username and password. The user's balance is kept track of and they are not allowed to purchase beyond it.
 
+Example: Nested if statements based on user input from scanner.
+
 Lab1Introduction: Introductory lab focusing on learning how to write print statements.
 
 Loops: Using for-loops, while-loops, and switch statements, allow the user to print repetitive lyrics.
