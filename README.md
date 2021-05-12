@@ -41,6 +41,8 @@ PracticeLab4: Initializing a scanner and taking user input.
 
 PracticeLab5: Using a switch statement and user input.
 
+Quiz: Quiz given to the user keeping track of correct answers.
+
 WhatToWatch: Gives the user the option to choose a movie to watch.
 
 backwards: Prints the number of lines in a file backwards down to 1.
